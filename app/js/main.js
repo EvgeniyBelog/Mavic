@@ -1,7 +1,3 @@
-$(function(){
-
-$('.products__slider').slick({
- 
-});
-
+$('document').ready(function(){
+    $('.products__slider').slick({})
 })
